@@ -1,0 +1,56 @@
+[
+    {
+        "pax_name": "Alice",
+        "date": "May-26 06:45 2020",
+        "itinerary": [
+            "LHR",
+            "AMS"
+        ]
+    },
+    {
+        "pax_name": "Bruce",
+        "date": "Jun-04 11:04 2020",
+        "itinerary": [
+            "GVA",
+            "AMS",
+            "LHR"
+        ]
+    },
+    {
+        "pax_name": "Cindy",
+        "date": "Jun-06 10:00 2020",
+        "itinerary": [
+            "AAL",
+            "AMS",
+            "LHR",
+            "JFK",
+            "SFO"
+        ]
+    },
+    {
+        "pax_name": "Derek",
+        "date": "Jun-12 08:09 2020",
+        "itinerary": [
+            "AMS",
+            "LHR"
+        ]
+    },
+    {
+        "pax_name": "Erica",
+        "date": "Jun-13 20:40 2020",
+        "itinerary": [
+            "ATL",
+            "AMS",
+            "AAL"
+        ]
+    },
+    {
+        "pax_name": "Fred",
+        "date": "Jun-14 09:10 2020",
+        "itinerary": [
+            "AMS",
+            "CDG",
+            "LHR"
+        ]
+    }
+]
